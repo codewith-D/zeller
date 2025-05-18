@@ -39,6 +39,8 @@ Changes have been made to the index.js file of the mock server:
 
 3. Added support for keyword search
 
+## Also used React Native Testing Library for unit test cases
+
 ## Repository
 Backend mock-server repository:
 🔗 https://github.com/codewith-D/zeller_graphql
