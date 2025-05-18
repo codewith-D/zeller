@@ -19,7 +19,7 @@ npm run ios
 ```
 
 ## Functionalities covered-> 
-
+### Developed UI and Covered all the functionalites with bonus points also
 1. Navigation to Zeller List Screen:
 On clicking the "Go to Zeller List" button, the app navigates to the UI provided in the assignment.
 
