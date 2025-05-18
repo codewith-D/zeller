@@ -1,7 +1,8 @@
 # Zeller React Native App (GraphQL Integration)
 
-### This is a React Native application built with **Expo**, integrating **GraphQL** to display and filter a list of users based on their roles and search queries.
-### also added screenshots of developed UI in folder name with **screenshots**
+This is a React Native application built with **Expo**, integrating **GraphQL** to display and filter a list of users based on their roles and search queries.
+also added screenshots of developed UI in folder name with **screenshots**
+
 ---
 
 ## 🚀 Getting Started
